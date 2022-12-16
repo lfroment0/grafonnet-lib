@@ -11,6 +11,7 @@ local Dashlist = grafana.dashlist;
     tags=['test0', 'test1'],
     recent=false,
     search=true,
+    folderId="12345"
     headings=true,
     limit=5
   ),
